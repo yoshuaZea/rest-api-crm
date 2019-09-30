@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5d837c05c86e5535c4670d97"},"nombre":"Camisa JavaScript","precio":25,"imagen":"na7Oeecp.jpeg","__v":0}
+{"_id":{"$oid":"5d8382e956b6442078d7f536"},"nombre":"Bulma","precio":45,"__v":0,"imagen":"3zKVQBCy.jpeg"}
+{"_id":{"$oid":"5d8a16cee5b0742960dd041e"},"nombre":"sass","precio":125,"imagen":"Sii9BZzq.jpeg","__v":0}
+{"_id":{"$oid":"5d8a196be5b0742960dd041f"},"nombre":"HTML 5","precio":250,"imagen":"s4NEnoMw.jpeg","__v":0}
+{"_id":{"$oid":"5d8a199ee5b0742960dd0420"},"nombre":"TypeScript","precio":125,"imagen":"kj9qRomI.jpeg","__v":0}
+{"_id":{"$oid":"5d8a19e0e5b0742960dd0422"},"nombre":"Node JS","precio":95,"imagen":"A2nrnN64.jpeg","__v":0}
+{"_id":{"$oid":"5d8a1a1de5b0742960dd0423"},"nombre":"Git Hub","precio":350,"imagen":"hbcjG6rq.jpeg","__v":0}
+{"_id":{"$oid":"5d8e181b1d285800e0e8597b"},"nombre":"Camisa react","precio":250,"imagen":"csV-elgz.jpeg","__v":0}
+{"_id":{"$oid":"5d913c7a064b332024c031a5"},"nombre":"Camisa redux","precio":170,"imagen":"Ktw-O0yi.jpeg","__v":0}

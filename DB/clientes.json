@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5d8307ab85909e29f05d5012"},"nombre":"Melissa","empresa":"izzi","email":"correo@correo.com","telefono":"7771002040","__v":0,"apellidos":"Zea"}
+{"_id":{"$oid":"5d871d417953072ae805b0c5"},"nombre":"Lorena","apellidos":"Uribe","empresa":"Comenio","email":"luribe13@icloud.com","telefono":"123123123213","__v":0}
+{"_id":{"$oid":"5d871d587953072ae805b0c6"},"nombre":"Job","apellidos":"Zea","empresa":"Udemy","email":"yoshua149@gmail.com","telefono":"1231312323","__v":0}
+{"_id":{"$oid":"5d88d196df02ef089c134162"},"nombre":"Hugo","apellidos":"Barrera","empresa":"izzi","email":"hbarrera@izzi.mx","telefono":"13213123213","__v":0}
+{"_id":{"$oid":"5d8e16d91d285800e0e8597a"},"nombre":"qwerty","apellidos":"Guizado","empresa":"Udemy","email":"yoshua12429@gmail.com","telefono":"1231232132","__v":0}
